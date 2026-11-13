@@ -1,2 +1,5 @@
-# Style-tech-finds
-Fashion, gadgets and handpicked product recommendations etc
+# MadMarkz
+
+Fashion, Gadgets & Lifestyle Finds.
+
+Discover handpicked products from Amazon and Myntra. Smart shopping starts here!
